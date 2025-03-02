@@ -2,11 +2,16 @@
 
 The API Object Store is a RESTful API that allows users to manage and store objects using standard HTTP methods. It supports full CRUD operations (Create, Read, Update, Delete), making it useful for testing and learning API interactions.
 
-Key Features:
-✅ GET – Retrieve objects or a specific object by ID.
-✅ POST – Add new objects with JSON data.
-✅ PUT/PATCH – Update existing objects.
-✅ DELETE – Remove objects from the database.
+Key Features:  
+
+✅ GET – Retrieve objects or a specific object by ID.  
+
+✅ POST – Add new objects with JSON data.  
+
+✅ PUT/PATCH – Update existing objects.  
+
+✅ DELETE – Remove objects from the database.  
+
 
 How to Use:
 Access via Swagger UI for easy testing.
